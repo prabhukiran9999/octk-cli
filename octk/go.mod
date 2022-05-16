@@ -1,4 +1,4 @@
-module octk
+module github.com/prabhukiran9999/octk-cli/octk
 
 go 1.17
 
